@@ -1,0 +1,26 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+!example.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# CLI configuration files
+.terraform/
+.terraform.lock.hcl
+
+# Plan files
+tfplan
+*.plan
+
+# OS files
+.DS_Store
+Thumbs.db
