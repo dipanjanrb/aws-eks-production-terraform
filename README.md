@@ -1,6 +1,6 @@
 # Production-Grade AWS EKS Platform with Terraform
 
-[![Terraform Validate](https://github.com/your-username/aws-eks-production-terraform/actions/workflows/terraform-ci.yml/badge.svg)](https://github.com/your-username/aws-eks-production-terraform/actions)
+[![Terraform Validate](https://github.com/dipanjanrb/aws-eks-production-terraform/actions/workflows/terraform-ci.yml/badge.svg)](https://github.com/dipanjanrb/aws-eks-production-terraform/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Terraform: >= 1.5.0](https://img.shields.io/badge/Terraform-%3E%3D%201.5.0-blue.svg)](https://www.terraform.io)
 [![AWS Provider: ~> 5.0](https://img.shields.io/badge/AWS%20Provider-~%3E%205.0-orange.svg)](https://registry.terraform.io/providers/hashicorp/aws/latest)
@@ -67,7 +67,7 @@ Enterprise-ready Infrastructure-as-Code (IaC) repository that provisions a highl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/aws-eks-production-terraform.git
+   git clone https://github.com/dipanjanrb/aws-eks-production-terraform.git
    cd aws-eks-production-terraform/environments/prod
    ```
 
